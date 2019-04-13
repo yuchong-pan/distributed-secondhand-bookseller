@@ -16,11 +16,12 @@ One may create a pull request to modify the status of a book to your GitHub ID, 
 * Facebook: Yuchong Pan
 * 电子邮箱: panyuchong@gmail.com
 
-Currently we mainly support people in the Great Vancouver Area, in Mainland China and in the Great Seattle Area. People in other regions may contact me to discuss potential mailing plans.
+Currently we mainly support people in the Great Vancouver Area, in Mainland China and in the Great Seattle Area. People from other regions may contact me to discuss potential mailing plans.
 
 目前主要支持大温哥华地区、中国大陆地区和大西雅图地区的同学。其他感兴趣的同学也可以联系我讨论可能的传递方案。
 
 Bargains are welcomed.
+
 欢迎砍价。
 
 | Name 书名 | Author 作者 | Condition 新旧程度 | Notes 备注 | Description 简介 | Price 价格 | Status 状态 |
