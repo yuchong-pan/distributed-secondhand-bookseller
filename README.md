@@ -28,8 +28,8 @@ Bargains are welcomed.
 | - | - | - | - | - | - | - |
 | TOEFL 词汇，词根+联想记忆法 | 俞敏洪 | New 全新 | | 绿宝书 | 30 RMB | |
 | Programming Language Pragmatics (Third Edition) | Michael L. Scott | New 全新 | Paperback, with a CD-ROM / Paperback，带光盘 | | 30 USD / 200 RMB | |
-| Fundamentals of Physics (Volume Two) | Halliday & Resnick | Like New 九成新 | Hardcover | UBC Physics 108 textbook; classical E&M textbook / UBC Physics 108 教材，经典电磁学教材 | 90 CAD / 450 RMB | |
-Structure and Interpretation of Computer Programs (Second Edition) | Harold Abelson and Gerald Jay Sussman with Julie Sussman | Very Good, with some pencil notes 较新，有铅笔笔记 | Printed 打印 | MIT 6.001 textbook; classical textbook in programming languages; introductory computer science textbook / MIT 6.001 教材，经典编程语言教材，经典计算机科学入门教材 | 20 RMB | Sold 已出售 |
-Introduction to Linear Algebra (Fourth Edition) | Gilbert Strang | Very Good, with some pencil notes, cover slightly damaged 较新，有铅笔笔记，封面有破损 | Printed 打印 | MIT 18.06 textbook; classical linear algebra textbook / MIT 18.06 教材，经典线性代数教材 | 20 RMB | Sold 已出售 |
+| Fundamentals of Physics (Volume Two) | Halliday & Resnick | Like New 九成新 | Hardcover | UBC Physics 108 textbook; classic E&M textbook / UBC Physics 108 教材，经典电磁学教材 | 90 CAD / 450 RMB | |
+Structure and Interpretation of Computer Programs (Second Edition) | Harold Abelson and Gerald Jay Sussman with Julie Sussman | Very Good, with some pencil notes 较新，有铅笔笔记 | Printed 打印 | MIT 6.001 textbook; classic textbook in programming languages; introductory computer science textbook / MIT 6.001 教材，经典编程语言教材，经典计算机科学入门教材 | 20 RMB | Sold 已出售 |
+Introduction to Linear Algebra (Fourth Edition) | Gilbert Strang | Very Good, with some pencil notes, cover slightly damaged 较新，有铅笔笔记，封面有破损 | Printed 打印 | MIT 18.06 textbook; classic linear algebra textbook / MIT 18.06 教材，经典线性代数教材 | 20 RMB | Sold 已出售 |
 Calculus: Single Variables (Eighth Edition) | Robert A. Adams & Christopher Essex | Very Good, with some pencil notes 较新，有铅笔笔记 | | UBC first-year calculus textbook / UBC 大一微积分课教材 | 100 CAD / 500 RMB | |
-On Writing Well | William Zinsser | New 全新 | | Classical textbook in English composition 经典写作教材 | 50 RMB | |
+On Writing Well | William Zinsser | New 全新 | | classic textbook in English composition 经典写作教材 | 50 RMB | |
